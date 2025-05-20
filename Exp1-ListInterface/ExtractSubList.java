@@ -1,4 +1,4 @@
-// Q1b-5: Write a java program for getting different colors through ArrayList interface and extract the elements 1st and 2nd from the ArrayList object by using subList()
+// Q1b-4: Write a java program for getting different colors through ArrayList interface and extract the elements 1st and 2nd from the ArrayList object by using subList()
 
 import java.util.*;
 
