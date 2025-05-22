@@ -22,35 +22,35 @@
    🔗 [Output Screenshot](https://github.com/shodhanshetty12/Advanced-Java-Assignment-1/blob/main/Exp1-ListInterface/Screenshot%202025-05-20%20145538.png)
 
 2. Write a java program for getting different colors through ArrayList interface and remove the 2nd element and color "Blue" from the ArrayList
-   🔗 [Output Screenshot](Exp1-ListInterface/p2.png)
+   🔗 [Output Screenshot](https://github.com/shodhanshetty12/Advanced-Java-Assignment-1/blob/main/Exp1-ListInterface/Screenshot%202025-05-20%20150636.png)
 
 3. Write a java program for getting different colors through ArrayList interface and  sort them using Collections.sort( ArrayListObj)
-   🔗 [Output Screenshot](Exp1-ListInterface/p3.png)
+   🔗 [Output Screenshot](https://github.com/shodhanshetty12/Advanced-Java-Assignment-1/blob/main/Exp1-ListInterface/Screenshot%202025-05-20%20151153.png)
 
 4. Write a java program for getting different colors through ArrayList interface and extract the elements 1st and 2nd from the ArrayList object  by  using SubList()
-   🔗 [Output Screenshot](Exp1-ListInterface/p4.png)
+   🔗 [Output Screenshot](https://github.com/shodhanshetty12/Advanced-Java-Assignment-1/blob/main/Exp1-ListInterface/Screenshot%202025-05-20%20200832.png)
 
 5. Write a java program for getting different colors through ArrayList interface and delete nth  element from the ArrayList object  by  using remove by index
-   🔗 [Output Screenshot](Exp1-ListInterface/p5.png)
+   🔗 [Output Screenshot](https://github.com/shodhanshetty12/Advanced-Java-Assignment-1/blob/main/Exp1-ListInterface/Screenshot%202025-05-20%20201442.png)
 
 ---
 
 ### 1c. Linked List Programs
 
 1. Write a Java program to iterate through all elements in a linked list starting at the specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))
-   🔗 [Output Screenshot](Exp1-ListInterface/p6.png)
+   🔗 [Output Screenshot](https://github.com/shodhanshetty12/Advanced-Java-Assignment-1/blob/main/Exp1-ListInterface/Screenshot%202025-05-20%20201832.png)
 
 2. Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator())
-   🔗 [Output Screenshot](Exp1-ListInterface/p7.png)
+   🔗 [Output Screenshot](https://github.com/shodhanshetty12/Advanced-Java-Assignment-1/blob/main/Exp1-ListInterface/Screenshot%202025-05-20%20203034.png)
 
 3. Write a Java program to insert the specified element at the end of a linked list.( using l\_listobj.offerLast("Pink"))
-   🔗 [Output Screenshot](Exp1-ListInterface/p8.png)
+   🔗 [Output Screenshot](http://github.com/shodhanshetty12/Advanced-Java-Assignment-1/blob/main/Exp1-ListInterface/Screenshot%202025-05-20%20203410.pngd)
 
 4. Write a Java program to display elements and their positions in a linked list ( using l\_listobj.get(p) )
-   🔗 [Output Screenshot](Exp1-ListInterface/p9.png)
+   🔗 [Output Screenshot](https://github.com/shodhanshetty12/Advanced-Java-Assignment-1/blob/main/Exp1-ListInterface/LinkedListDisplayWithPosition.java)
 
 5. Write a Java program that swaps two elements ( first and third elements ) in a linked list  ( using Collections.swap(l\_list, 0, 2))
-   🔗 [Output Screenshot](Exp1-ListInterface/p10.png)
+   🔗 [Output Screenshot](https://github.com/shodhanshetty12/Advanced-Java-Assignment-1/blob/main/Exp1-ListInterface/Screenshot%202025-05-20%20204208.png)
 
 ---
 
@@ -63,7 +63,7 @@ LinkedHashSet Demonstration: LinkedHashSet (maintains insertion order): \[Red, G
 Set Operations Demonstration\:Union of sets: \[1, 2, 3, 4, 5, 6, 7, 8], Intersection of sets: \[4, 5]
 Difference of sets (set1 - set2): \[1, 2, 3]
 Iteration Demonstration : Using for-each loop,Using Iterator
-🔗 [Output Screenshot](Exp2-SetInterface/MapInterfaceDemo.png)
+🔗 [Output Screenshot](https://github.com/shodhanshetty12/Advanced-Java-Assignment-1/blob/main/Exp2-SetInterface/Screenshot%202025-05-20%20204506.png)
 
 ### 2b. Map Excercises
 
@@ -71,17 +71,17 @@ Iteration Demonstration : Using for-each loop,Using Iterator
 
 1. Write a Java program to traverse / iterate all the keys with the specified value in a HashMap (1,”Apple”), (2,”Strawberry”), (3,”Pear”), (4,”Cucumber”), (5,”Grapes”)
    \[ hint : 6. Iterating Over Map in the worked out example]
-   🔗 [Output Screenshot](Exp2-SetInterface/HM1.png)
+   🔗 [Output Screenshot](https://github.com/shodhanshetty12/Advanced-Java-Assignment-1/blob/main/Exp2-SetInterface/Screenshot%202025-05-20%20204506.png)
 
 2. Remove the following all elements from the HashMap then verify that its size is zero and include once again following elements and check its size (1,”Banana”), (2,”Orange”), (3,”Guava”), (4,”Pomegranate ”), (5,”Amla”)
    \[ Hint : clear() , size() and put()]
-   🔗 [Output Screenshot](Exp2-SetInterface/HM2.png)
+   🔗 [Output Screenshot](https://github.com/shodhanshetty12/Advanced-Java-Assignment-1/blob/main/Exp2-SetInterface/Screenshot%202025-05-20%20205053.png)
 
 3. Write a Java program to copy all mappings from the specified map to another map as shown below
    Hashmap1 => ( 1, "Red") ,(2, "Green"), (3, "Black")
    Hashmap2 => (4, "White"),(5, "Blue"),(6, "Orange")
    Add all the values of Hashmap1 intoLiberation Serif Hashmap2 and print the result
-   🔗 [Output Screenshot](Exp2-SetInterface/HM3.png)
+   🔗 [Output Screenshot](https://github.com/shodhanshetty12/Advanced-Java-Assignment-1/blob/main/Exp3a-StringOperations/Outputs/Screenshot%202025-05-20%20210753.png)
 
 4. Write a Java program to check whether a map contains Key-Values mappings (empty) or not after adding all the following elements into Hashmap and after removing all the elements from the Hashmap. (1, "Red"),(2, "Green"), (3, "Black"), (4, "White"),(5, "Blue")
    🔗 [Output Screenshot](Exp2-SetInterface/HM4.png)
