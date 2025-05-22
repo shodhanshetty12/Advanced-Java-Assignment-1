@@ -1,4 +1,4 @@
-//Q1b-1: Write a java program for getting different colors through ArrayList interface and search whether the color "Red" is available or not
+ //Q1b-1: Write a java program for getting different colors through ArrayList interface and search whether the color "Red" is available or not
 
 package Array_List_programs_1b;
 import java.util.*;
