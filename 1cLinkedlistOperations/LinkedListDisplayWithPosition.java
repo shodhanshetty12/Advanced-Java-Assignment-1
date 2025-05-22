@@ -1,5 +1,4 @@
 //Q1c-4: Write a Java program to display elements and their positions in a linked list (using l_listobj.get(p))
-
 package linked_List_Programs_1c;
 import java.util.*;
 
