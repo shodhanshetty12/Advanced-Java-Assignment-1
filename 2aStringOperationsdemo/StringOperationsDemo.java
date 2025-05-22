@@ -2,7 +2,6 @@
 //String Creation and Basic Operations, Length and Character Access, String Comparison, String Searching, 
 //Substring Operations, String Modification, Whitespace Handling, String Concatenation, String Splitting, 
 //StringBuilder Demo, String Formatting, Validate Email with contains(), startsWith(), and endsWith()
-
 package StringOperationsDemo_2a;
 
 public class StringOperationsDemo {
