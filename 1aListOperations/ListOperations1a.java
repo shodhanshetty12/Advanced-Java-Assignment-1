@@ -9,7 +9,7 @@ import java.util.*;
 public class ListOperations1a{
   
     public static void main(String[] args) {
-        // Step 1: Adding elements
+        // Step 1: Adding elements 
         List<String> arrayList = new ArrayList<>();
         List<String> linkedList = new LinkedList<>();
 
